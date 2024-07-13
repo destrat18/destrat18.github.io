@@ -8,7 +8,7 @@ I am currently a student of Doctorate of Philosophy (PhD) in Computer Science an
 
 ## Research Interests
 
-- **Blockchain:** Smart-Contracts, Layer 2 Solutions, Parametrized Algorithms
+Formal Verification, Parametrized Algorithms, Smart-Contracts, Layer 2 Solutions
 
 ## Publications
 1. T. Barakbayeva, S. Farokhnia, A.K. Goharshady, M. Gufler, S. Novozhilov\
