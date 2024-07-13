@@ -32,22 +32,22 @@ IEEE International Conference on Blockchain and Cryptocurrency, ICBC 2023
 ACM Symposium on Applied Computing, SAC 2023
 
 ## Conference, Workshop, and Summer Schools
-1. Summer School 2024: Usable Security\
+1. **Summer School 2024: Usable Security**\
 22-26 July 2024\
 CISPA - Helmholtz Center for Information Security, Saarbruecken, Germany
 
-1. Summer School on Verification Technology, Systems & Applications, VTSA 2024\
+1. **Summer School on Verification Technology, Systems & Applications, VTSA 2024**\
 8-12 July 2024\
 University of Luxembourg, Luxembourg
 
-1. Programming Language Design and Implementation, PLDI 2024\
+1. **Programming Language Design and Implementation, PLDI 2024**\
 24-28 June 2024\
 Copenhagen, Denmark
 
-1. ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications, OOPSLA 2023\
+1. **ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications, OOPSLA 2023**\
 22-27 October 2023\
 Cascais, Portugal
 
-1. IEEE International Conference on Blockchain and Cryptocurrency, ICBC 2023\
+1. **IEEE International Conference on Blockchain and Cryptocurrency, ICBC 2023**\
 1–5 May 2023\
 Dubai, United Arab Emirates
