@@ -31,7 +31,7 @@ IEEE International Conference on Blockchain and Cryptocurrency, ICBC 2023
 **Alleviating High Gas Costs by Secure and Trustless Off-chain Execution of Smart Contracts**\
 ACM Symposium on Applied Computing, SAC 2023
 
-## Conference, Workshops, and Summer Schools
+## Conferences, Workshops, and Summer Schools
 1. **Summer School 2024: Usable Security**\
 22-26 July 2024\
 CISPA - Helmholtz Center for Information Security, Saarbruecken, Germany
