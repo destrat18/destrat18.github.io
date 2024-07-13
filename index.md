@@ -31,7 +31,7 @@ IEEE International Conference on Blockchain and Cryptocurrency, ICBC 2023
 **Alleviating High Gas Costs by Secure and Trustless Off-chain Execution of Smart Contracts**\
 ACM Symposium on Applied Computing, SAC 2023
 
-## Conference, Workshop, and Summer Schools
+## Conference, Workshops, and Summer Schools
 1. **Summer School 2024: Usable Security**\
 22-26 July 2024\
 CISPA - Helmholtz Center for Information Security, Saarbruecken, Germany
@@ -51,3 +51,23 @@ Cascais, Portugal
 1. **IEEE International Conference on Blockchain and Cryptocurrency, ICBC 2023**\
 1–5 May 2023\
 Dubai, United Arab Emirates
+
+## Visits, Internships, and Work Experiences
+
+1. **Formal Verification Intern**\
+Supervisor: Julian Sutherland\
+July-September 2024\
+Nethermind internship program\
+Remote
+
+1. **Researcher**\
+Supervisor: Prof. Ehsan Fazl‑Ersi\
+2020-2021\
+Machine Vision Laboratory Lab\
+Mashhad, Iran
+
+1. **Data Engineer**\
+Supervisor: Behnam Shakibafar\
+2017-2020\
+Done co.(Old Huma)\
+Tehran, Iran
