@@ -6,19 +6,19 @@ email: sfarokhnia@connect.ust.hk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: blockchain hkust PhD
+keywords: Formal Verification, Smart Contracts, Parameterization Algorithms, hkust, PhD
 description: Soroush Farokhnia
 # canonical: https://minimal-light.yyliu.net/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
-github_link: https://github.com/destrat18
-linkedin: https://www.linkedin.com/in/destrat18/
+# github_link: https://github.com/destrat18
+# linkedin: https://www.linkedin.com/in/destrat18/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.jpg
+# avatar: ./assets/img/avatar.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
