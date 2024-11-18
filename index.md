@@ -13,7 +13,7 @@ Formal Verification, Parametrized Algorithms, Smart Contracts
 ## Publications
 1. T. Barakbayeva, S. Farokhnia, A.K. Goharshady, M. Gufler, S. Novozhilov\
 **Pixiu: Optimal Block Production Revenues on Cardano**\
-IEEE International Conference on Blockchain, Blockchain 2024
+IEEE International Conference on Blockchain, Blockchain 2024\
 In collaboration with the Cardano Foundation.
 
 1. S. Farokhnia, A.K. Goharshady\
