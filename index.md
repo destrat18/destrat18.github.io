@@ -8,12 +8,13 @@ I am currently a student of Doctorate of Philosophy (PhD) in Computer Science an
 
 ## Research Interests
 
-Formal Verification, Parametrized Algorithms, Smart-Contracts, Layer 2 Solutions
+Formal Verification, Parametrized Algorithms, Smart Contracts
 
 ## Publications
 1. T. Barakbayeva, S. Farokhnia, A.K. Goharshady, M. Gufler, S. Novozhilov\
 **Pixiu: Optimal Block Production Revenues on Cardano**\
 IEEE International Conference on Blockchain, Blockchain 2024
+In collaboration with the Cardano Foundation.
 
 1. S. Farokhnia, A.K. Goharshady\
 **Options and Futures Imperil Bitcoin’s Security**\
@@ -31,43 +32,41 @@ IEEE International Conference on Blockchain and Cryptocurrency, ICBC 2023
 **Alleviating High Gas Costs by Secure and Trustless Off-chain Execution of Smart Contracts**\
 ACM Symposium on Applied Computing, SAC 2023
 
-## Conferences, Workshops, and Summer Schools
-1. **Summer School 2024: Usable Security**\
-22-26 July 2024\
-CISPA - Helmholtz Center for Information Security, Saarbruecken, Germany
+## Presentations and Talks
+1. **Cardano Summit**\
+2024\
+Invited Talk\
+Title: _Optimizing Rewards: Cutting-Edge Research Insights_
 
-1. **Summer School on Verification Technology, Systems & Applications, VTSA 2024**\
-8-12 July 2024\
-University of Luxembourg, Luxembourg
+2. **IEEE International Conference on Blockchain (Blockchain)**\
+2024\
+Oral Presentation\
+Title: _Options and Futures Imperil Bitcoin’s Security_
 
-1. **Programming Language Design and Implementation, PLDI 2024**\
-24-28 June 2024\
-Copenhagen, Denmark
+3. **Object‑Oriented Programming, Systems, Languages, and Applications (OOPSLA)**\
+2023\
+Oral Presentation\
+Title: _Asparagus: Automated Synthesis of Parametric Gas Upper‑bounds for Smart Contracts_
 
-1. **ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications, OOPSLA 2023**\
-22-27 October 2023\
-Cascais, Portugal
+4. **IEEE International Conference on Blockchain and Cryptocurrency (ICBC)**\
+2023\
+Oral Presentation\
+Title: _Reducing the gas usage of Ethereum smart contracts without a sidechain_
 
-1. **IEEE International Conference on Blockchain and Cryptocurrency, ICBC 2023**\
-1–5 May 2023\
-Dubai, United Arab Emirates
 
 ## Visits, Internships, and Work Experiences
 
 1. **Formal Verification Intern**\
-Supervisor: Julian Sutherland\
 July-September 2024\
 Nethermind internship program\
 Remote
 
 1. **Researcher**\
-Supervisor: Prof. Ehsan Fazl‑Ersi\
 2020-2021\
 Machine Vision Laboratory Lab\
 Mashhad, Iran
 
-1. **Data Engineer**\
-Supervisor: Behnam Shakibafar\
+1. **Backend Developer**\
 2017-2020\
-Done co.(Old Huma)\
+Done co.\
 Tehran, Iran
