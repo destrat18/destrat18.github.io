@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /research
 ---
-My research interests lie at the intersection of Formal Methods and Parametrized Algorithms within the context of blockchain technology.
+My research interests lie at the intersection of Formal Methods and Parametrized Algorithms within the context of blockchain technology. My goal is to design sound and scalable verification techniques for smart contracts. Below, I provide an overview of my research interests, challenges, and goals.
 
 ## Smart Contracts
 Smart contracts are programs that run on blockchains and currently manage billions of dollars worth of digital assets. You may have heard of tokens, NFTs, and stablecoins, which are typically controlled by smart contracts. These contracts play a significant role in our economy because they offer properties that traditional banking cannot, such as:
@@ -26,3 +26,5 @@ Smart contracts are not without flaws. They can have bugs, vulnerabilities, and 
 ## Program Verification
 Ensuring the correctness of smart contracts is crucial. Traditional testing methods fall short as they only cover a limited set of possible executions. To guarantee that smart contracts behave as intended in all scenarios, we need formal verification. Formal methods offer a mathematical approach to prove the correctness of smart contracts, providing a higher level of assurance that they are free from bugs and vulnerabilities.
 
+## My Research Goals
+I am interested in using formal verification techniques to reason about properties of smart contracts. However, current verification techniques are not scalable to real-world contracts; they are often computationally expensive and require significant time. My goal is to use recent trends in complexity theory, called parameterized algorithms, to design efficient and sound techniques for verifying smart contracts.
