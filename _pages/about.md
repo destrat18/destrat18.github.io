@@ -10,7 +10,7 @@ redirect_from:
 I am a PhD candidate in Computer Science and Engineering at the [Hong Kong University of Science and Technology](https://www.ust.hk/). I am fortunate to be supervised by [Prof. Jiasi Shen](https://shenjiasi.com/). Previously, I obtained my MPhil at the same university. I was awarded a reseach grant from Ethereum Foundation (2'nd biggest cryptocurrency).
 
 ## Research Interests
-I'm intersted in the following research areas: Program Verification, Parameterized Algorithms, and Blockchain.
+I'm intersted in the following research areas: Program Verification, Parameterized Algorithms, and Blockchain. Please refer to my [research page](/research) for more details.
 
 ## Grants and Awards
 I've been fortunate to receive the following grants, honours, and awards:
