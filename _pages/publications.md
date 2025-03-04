@@ -34,5 +34,4 @@ ACM Symposium on Applied Computing, **SAC 2023**
 
 ### Under Submissions
 1. S. Akshay, S. Chakraborty, S. Farokhnia, A.K. Goharshady, H.J. Motwani, D. Zikelic\\
-An LP-Based Approach for Weighted Model Integration with Non-Linear Arithmetic\\
-International Joint Conferences on Artificial Intelligence, **IJCAI 2025** 
+An LP-Based Approach for Weighted Model Integration with Non-Linear Arithmetic 
