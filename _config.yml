@@ -34,17 +34,18 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=D81KargAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-2643-120X"
+  orcid            : # "https://orcid.org/0000-0002-2643-120X"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
+  dblp             : "https://dblp.org/pid/351/6062.html"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "destrat18"
+  github           : # "destrat18"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
