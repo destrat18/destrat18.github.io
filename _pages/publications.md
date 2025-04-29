@@ -8,7 +8,7 @@ redirect_from:
 For an updated list of publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=3Z6Z9QkAAAAJ&hl=en) page.
 
 1. S. Akshay, S. Chakraborty, S. Farokhnia, A.K. Goharshady, H.J. Motwani, D. Žikelić\\
-An LP-Based Approach for Weighted Model Integration with Non-Linear Arithmetic\\ 
+An LP-Based Approach for Weighted Model Integration with Non-Linear Arithmetic 
 International Joint Conference on Artificial Intelligence, **IJCAI 2025**
 
 1. T. Barakbayeva, S. Farokhnia, A.K. Goharshady, P. Li, Z. Lin\\
