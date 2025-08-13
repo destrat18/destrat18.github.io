@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Computer Science and Engineering at the [Hong Kong University of Science and Technology](https://www.ust.hk/). Previously, I obtained my MPhil at the same university. I was awarded a reseach grant from Ethereum Foundation (2nd biggest cryptocurrency).
+I am a PhD candidate in Computer Science and Engineering at the [Hong Kong University of Science and Technology](https://www.ust.hk/). Previously, I obtained my MPhil at the same university. I was awarded a research grant from the Ethereum Foundation (the second largest cryptocurrency).
 
 ## Research Interests
-I'm intersted in the following research areas: Program Verification, Parameterized Algorithms, and Blockchain. Please refer to my [research page](/research) for more details.
+I'm interested in the following research areas: Program Verification, Parameterized Algorithms, and Blockchain. Please refer to my [research page](/research) for more details.
 
 ## Grants and Awards
-I've been fortunate to receive the following grants, honours, and awards:
+I've been fortunate to receive the following grants, honors, and awards:
 
 - **Ethereum Foundation Grant (ESP)**, 233,000 HKD, 2024
 - **Hong Kong Research Grants Council Research Travel Grant**, 11,500 HKD, 2024
@@ -25,10 +25,9 @@ I've been fortunate to receive the following grants, honours, and awards:
 - **Best Undergraduate Thesis Award**, Department of Computer Engineering, Yazd University, 2018
 - **Exchange Student Fellowship**, Iranian Ministry of Science, Research and Technology, 2014
 
-
 ## Publications
 1. S. Akshay, S. Chakraborty, S. Farokhnia, A.K. Goharshady, H.J. Motwani, D. Žikelić\\
-An LP-Based Approach for Weighted Model Integration with Non-Linear Arithmetic 
+An LP-Based Approach for Weighted Model Integration with Non-Linear Arithmetic\\
 International Joint Conference on Artificial Intelligence, **IJCAI 2025**
 
 1. T. Barakbayeva, S. Farokhnia, A.K. Goharshady, P. Li, Z. Lin\\
@@ -56,7 +55,7 @@ IEEE International Conference on Blockchain and Cryptocurrency, **ICBC 2023**
 Alleviating High Gas Costs by Secure and Trustless Off-chain Execution of Smart Contracts\\
 ACM Symposium on Applied Computing, **SAC 2023**
 
-### Under Submissions
+### Under Submission
 1. T. Barakbayeva, S. Farokhnia, A.K. Goharshady, S. Novozhilov\\
 Boosting Gas Revenues of Ethereum Miners\\
 **In collaboration with Ethereum Foundation**
