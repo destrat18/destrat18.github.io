@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Computer Science and Engineering at the [Hong Kong University of Science and Technology](https://www.ust.hk/). I am fortunate to be supervised by [Prof. Goharshady](https://amir.goharshady.com/home) and [Prof. Shen](https://shenjiasi.com/). My research focuses on designing automated algorithms for optimization problems and program verification, mainly in the context of blockchain and recently AI.
+I am a Ph.D. candidate in Computer Science and Engineering at the [Hong Kong University of Science and Technology](https://www.ust.hk/), supervised by [Prof. Goharshady](https://amir.goharshady.com/home) and [Prof. Shen](https://shenjiasi.com/). My research focuses on designing automated algorithms for optimization problems and program verification, mainly in the context of blockchain and, more recently, AI.
+
+I am currently undertaking a research visit at St Catherine's College, University of Oxford, where I will be based until the end of November 2025.
 
 ## Grants and Awards
 I've been fortunate to receive the following grants, honors, and awards:
